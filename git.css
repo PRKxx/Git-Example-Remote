@@ -2,3 +2,12 @@ body
 {
     background-color: #cd4181;
 }
+h1{
+    color: #1a0101;
+    text-align:center;
+}
+p{
+    font-family:"Times New Roman ";
+    font-size: 20px;
+    text-align: center;
+}
